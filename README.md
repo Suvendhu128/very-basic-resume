@@ -1,2 +1,2 @@
 # very-basic-resume
-Link : github.com/Suvendhu128/very-basic-resume
+hosted link: https://suvendhu128.github.io/very-basic-resume/
